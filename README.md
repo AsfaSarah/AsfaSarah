@@ -48,3 +48,7 @@
 | 💻 Most Used Languages | 🧠 LeetCode Metrics |
 | --- | --- |
 | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AsfaSarah&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="400px" height="215px" alt="Top Languages" /> | <img src="https://leetcard.jacoblin.cool/Asfa_Sarah?theme=dark&font=Syne%20Tactile&ext=activity" width="400px" height="215px" alt="LeetCode Stats" /> |
+
+---
+### 🐍 My Contribution Snake
+![](https://raw.githubusercontent.com/AsfaSarah/AsfaSarah/output/github-contribution-grid-snake-dark.svg)
